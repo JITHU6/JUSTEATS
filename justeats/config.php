@@ -1,0 +1,11 @@
+<?php
+define("SITE_NAME",'justeats');
+define("SITE_ONE",'justeats/view');
+define("SITE_URL",'localhost/justeats/');
+define("CSS_URL",'css/');
+define("ADMINSITE_URL",'http://localhost/justeats/view/admin');
+define("VIEW_PATH",'view/');
+define("ADMIN_VIEWPATH",'view/admin/');
+define("REGUSER_VIEWPATH",'view/reg_user/');
+define("CLASS_PATH",'class/');
+?>
